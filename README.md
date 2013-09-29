@@ -1,4 +1,4 @@
 IAMA
 ====
 
-An ontology matching tool implemented with Alignment API
+An ontology matching system implemented with Alignment API
