@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/align.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/alignsvc.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/jcl-over-slf4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/jena-arq-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/jena-core-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/jena-iri-0.9.5.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/jena-tdb-0.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/lucene-analyzers-3.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/lucene-core-3.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/lucene-core-3.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/lucene-test-framework-3.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/lucene-test-framework-3.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/ontowrap.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/procalign.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/slf4j-log4j12-1.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyEclipseWorkSpaces/MyEclipse 10/IAMA/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
